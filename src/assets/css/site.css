@@ -1,0 +1,25 @@
+.card-search{
+height: auto;
+}
+
+.card-search  .input-group{
+    margin: 27px 0 0 0 !important;
+}
+
+.center-content{
+    display: grid;
+    place-items: center;
+}
+
+.venue-name{
+    font-size: 1.25rem;
+}
+
+.venue-category{
+    font-weight: 700;
+    font-size: 1rem
+}
+
+.pointer-cursor{
+    cursor: pointer;
+}
